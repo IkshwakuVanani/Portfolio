@@ -1,2 +1,4 @@
 node_modules/
 .openai/
+.playwright-cli/
+output/playwright/
